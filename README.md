@@ -4,7 +4,7 @@
 - 💻 Learning Web Development
 - 🌱 Currently learning HTML, CSS, JavaScript
 - 🚀 Interested in Frontend Development
-- 📫 Reach me: your-email@example.com
+- 📫 Reach me: akhaniraja89@gmail.com
 
 ## Skills
 - HTML
