@@ -1,27 +1,27 @@
 # 👋 Hi, I'm Raja Akhani
 
-### 💻 Aspiring Frontend Developer | JavaScript Developer in Progress
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Frontend+Developer+in+Progress;Building+Real-World+Web+Projects;Learning+JavaScript+%26+React.js;Turning+Ideas+Into+Web+Experiences" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=650&lines=Aspiring+Frontend+Developer;SMIT+Web+Development+Student;Building+Real-World+Projects;Learning+JavaScript+and+React.js" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=akhaniraja89-rgb&label=Profile%20Views&color=F75C7E&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/akhaniraja89-rgb?label=Followers&style=flat&color=F75C7E" alt="GitHub Followers" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-I'm an aspiring Frontend Developer from Pakistan, currently learning Web Application Development at **SMIT (Saylani Mass IT Training)**.
+I'm an aspiring Frontend Developer from Karachi, Pakistan, learning Web Application Development at **Saylani Mass IT Training (SMIT)**.
 
-I enjoy building responsive websites, interactive user interfaces, and practical web applications. My focus is on strengthening my JavaScript fundamentals, improving UI design, and developing projects that solve real-world problems.
+I enjoy creating responsive websites, interactive user interfaces, and practical web applications. I'm continuously improving my coding skills by building projects and learning modern web technologies.
 
-- 🎓 Learning Web Application Development at SMIT.
-- 🌱 Currently improving JavaScript, DOM manipulation, and ES6+.
-- 🎨 Interested in responsive design, animations, and clean UI.
+- 🎓 Studying Web Application Development at SMIT.
+- 💻 Working with HTML, CSS, JavaScript, and Bootstrap.
+- 🌱 Improving JavaScript, DOM manipulation, and ES6+ skills.
 - 🔥 Exploring React.js, APIs, and Firebase.
+- 🎨 Interested in responsive layouts, animations, and UI/UX.
 - 🎯 Long-term goal: Become a Full-Stack Developer and explore AI/ML.
 - 🤝 Open to learning opportunities, internships, and collaborations.
 
@@ -29,65 +29,70 @@ I enjoy building responsive websites, interactive user interfaces, and practical
 
 ## 🛠️ Tech Stack
 
-### Frontend Development
+### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind&theme=dark" alt="Frontend Skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind&theme=dark" alt="Frontend Technologies" />
 </p>
 
 ### Tools & Platforms
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,firebase,netlify&theme=dark" alt="Tools and Platforms" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,firebase,netlify&theme=dark" alt="Development Tools" />
 </p>
 
-### Currently Exploring
+### Currently Learning
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,python&theme=dark" alt="Currently Learning" />
+  <img src="https://skillicons.dev/icons?i=react,python&theme=dark" alt="Learning Technologies" />
 </p>
 
 ---
 
-## 💻 Featured Projects
+## 💼 My Projects
 
 ### 🌦️ Weather App
-A weather application that lets users search for a city and view weather information.
 
-- **Tech:** HTML, CSS, JavaScript, Weather API
-- **Live Demo:** [View Website](https://weather-app-raja.web.app)
-- **Source Code:** [GitHub Repository](https://github.com/akhaniraja89-rgb/weather-app)
+A responsive weather application that lets users search for cities and view weather information.
+
+- **Technologies:** HTML, CSS, JavaScript, Weather API
+- **Live Website:** [Open Weather App](https://weather-app-raja.web.app)
+- **Repository:** [Weather App on GitHub](https://github.com/akhaniraja89-rgb/weather-app)
 
 ### 🧠 Quizify — Advanced Quiz App
-An interactive quiz project featuring multiple categories, question selection, and timed questions.
 
-- **Tech:** HTML, CSS, JavaScript, Firebase
-- **Source Code:** [GitHub Repository](https://github.com/akhaniraja89-rgb/quizify-advanced-quiz)
+An interactive quiz application with multiple categories and timed questions.
+
+- **Technologies:** HTML, CSS, JavaScript, Firebase
+- **Repository:** [View My GitHub Projects](https://github.com/akhaniraja89-rgb)
 
 ### ⏰ My Clock
-A clock application featuring digital and analog clock interfaces and dark mode.
 
-- **Tech:** HTML, CSS, JavaScript
-- **Source Code:** [GitHub Repository](https://github.com/akhaniraja89-rgb/my-clock)
+A clock application featuring digital and analog displays with dark mode.
+
+- **Technologies:** HTML, CSS, JavaScript
+- **Repository:** [View My GitHub Projects](https://github.com/akhaniraja89-rgb)
 
 ### 💰 SpendWise
-A personal finance project focused on tracking and organizing expenses.
 
-- **Tech:** HTML, CSS, JavaScript
-- **Source Code:** [Explore My GitHub](https://github.com/akhaniraja89-rgb)
+A personal finance project focused on organizing and tracking expenses.
+
+- **Technologies:** HTML, CSS, JavaScript
+- **Repository:** [View My GitHub Projects](https://github.com/akhaniraja89-rgb)
 
 ### 👗 SIYA LUXE
+
 A luxury ladies' fashion e-commerce project focused on elegant design and Firebase integration.
 
-- **Tech:** HTML, CSS, JavaScript, Tailwind CSS, Firebase
-- **Source Code:** [Explore My GitHub](https://github.com/akhaniraja89-rgb)
+- **Technologies:** HTML, CSS, JavaScript, Tailwind CSS, Firebase
+- **Repository:** [View My GitHub Projects](https://github.com/akhaniraja89-rgb)
 
 ---
 
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=akhaniraja89-rgb&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="Raja's GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=akhaniraja89-rgb&show_icons=true&theme=radical&hide_border=true" alt="Raja's GitHub Statistics" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhaniraja89-rgb&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages" />
 </p>
 
@@ -97,15 +102,25 @@ A luxury ladies' fashion e-commerce project focused on elegant design and Fireba
 
 ---
 
-## 🎯 My Goals
+## 📈 Contribution Activity
 
-- [x] Build practical frontend projects.
-- [x] Learn the fundamentals of HTML, CSS, and JavaScript.
-- [ ] Improve JavaScript and DOM problem-solving skills.
-- [ ] Build advanced responsive websites.
-- [ ] Learn React.js and modern frontend development.
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akhaniraja89-rgb&theme=redical&hide_border=true" alt="GitHub Contribution Activity Graph" />
+</p>
+
+---
+
+## 🎯 Learning Roadmap
+
+- [x] Learn HTML fundamentals.
+- [x] Learn CSS fundamentals.
+- [x] Build beginner web development projects.
+- [ ] Improve JavaScript and DOM manipulation.
+- [ ] Master responsive web design.
+- [ ] Learn React.js.
+- [ ] Build more advanced web applications.
 - [ ] Contribute to open-source projects.
-- [ ] Start working on freelance and internship opportunities.
+- [ ] Gain internship and freelance experience.
 - [ ] Progress toward full-stack development.
 
 ---
@@ -116,7 +131,7 @@ A luxury ladies' fashion e-commerce project focused on elegant design and Fireba
   <a href="https://github.com/akhaniraja89-rgb">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://www.linkedin.com/">
+  <a href="https://www.linkedin.com/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
