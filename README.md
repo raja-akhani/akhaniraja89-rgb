@@ -1,15 +1,5 @@
 # 👋 Hi, I'm Raja Akhani
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=650&lines=Aspiring+Frontend+Developer;SMIT+Web+Development+Student;Building+Real-World+Projects;Learning+JavaScript+and+React.js" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=akhaniraja89-rgb&label=Profile%20Views&color=F75C7E&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/akhaniraja89-rgb?label=Followers&style=flat&color=F75C7E" alt="GitHub Followers" />
-</p>
-
----
 
 ## 🚀 About Me
 
