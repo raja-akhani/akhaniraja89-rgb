@@ -82,12 +82,12 @@ A luxury ladies' fashion e-commerce project focused on elegant design and Fireba
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=akhaniraja89-rgb&show_icons=true&theme=radical&hide_border=true" alt="Raja's GitHub Statistics" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhaniraja89-rgb&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=rajaakhani-dev&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400" alt="Raja Akhani GitHub Statistics" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajaakhani-dev&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=akhaniraja89-rgb&theme=radical&hide_border=true" alt="GitHub Contribution Streak" />
+  <img src="https://streak-stats.demolab.com?user=rajaakhani-dev&theme=radical&hide_border=true" alt="GitHub Contribution Streak" />
 </p>
 
 ---
@@ -95,10 +95,9 @@ A luxury ladies' fashion e-commerce project focused on elegant design and Fireba
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akhaniraja89-rgb&theme=redical&hide_border=true" alt="GitHub Contribution Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajaakhani-dev&theme=redical&hide_border=true" alt="GitHub Contribution Activity Graph" />
 </p>
 
----
 
 ## 🎯 Learning Roadmap
 
